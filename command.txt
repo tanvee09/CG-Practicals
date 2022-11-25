@@ -1,0 +1,1 @@
+gcc 1.c -framework GLUT -framework OpenGL && ./a.out
